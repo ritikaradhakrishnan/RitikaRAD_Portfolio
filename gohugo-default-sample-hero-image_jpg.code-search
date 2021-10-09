@@ -1,0 +1,9 @@
+# Query: gohugo-default-sample-hero-image.jpg
+# ContextLines: 1
+
+1 result - 1 file
+
+content/en/_index.md:
+  2  title: "Ritika Radhakrishnan"
+  3: featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  4  description: "Welcome to my portfolio page, Nice to see you here!"

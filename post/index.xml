@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ritika Radhakrishnan</title>
+    <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/</link>
+    <description>Recent content in Projects on Ritika Radhakrishnan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Fraud Credit Card Transaction Detector using Machine Learning</title>
+      <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-6/</link>
+      <pubDate>Tue, 01 Dec 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-6/</guid>
+      <description>Due to the ongoing pandemic, there is a sudden boom in the E-commerce industry and hence many online sites have increased the online payment modes, increasing the risk for online frauds. Increase in fraud rates, researchers started using different machine learning methods to detect and analyse frauds in online transactions. The main aim of the project is to design and develop a fraud detection model based on the given Dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: D-BUG: YOUR CODE COMPANION</title>
+      <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 24 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-5/</guid>
+      <description>D-BUG is a platform by programmers for programmers. It has been created to help new programmers achieve their beginner goals. It contains programming questions for various languages for practice and has a simple UI which helps people at all levels of programming to understand the content.
+ Link to the Website</description>
+    </item>
+    
+    <item>
+      <title>Fundamentals : Machine learning using Python Algorithms</title>
+      <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 12 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-4/</guid>
+      <description>A &amp;lsquo;Machine learning using Python&amp;rsquo; internship at Foxmula-Y which taught me the basic algorithms of machine learning in supervised and unsupervised learning .
+Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Haacker Rank solutions : C&#43;&#43;</title>
+      <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter2/</guid>
+      <description>C++ Programming Questions Solutions for better understanding of Standard Template Library
+Link to the repository</description>
+    </item>
+    
+    <item>
+      <title>Python Mini Projects</title>
+      <link>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ritikaradhakrishnan.github.io/RitikaRAD_Portfolio/post/chapter-3/</guid>
+      <description>Using PySimpleGUI to find answers using Wolfram|Alpha and Wikipedia
+Link to the project</description>
+    </item>
+    
+  </channel>
+</rss>
